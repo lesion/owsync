@@ -2,7 +2,7 @@
   "name": "owsync",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel --presets es2015 lib -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
